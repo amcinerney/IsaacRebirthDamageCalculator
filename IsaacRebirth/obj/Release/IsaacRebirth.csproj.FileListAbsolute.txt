@@ -1,0 +1,10 @@
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\bin\Release\IsaacRebirth.exe.config
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\bin\Release\IsaacRebirth.exe
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\bin\Release\IsaacRebirth.pdb
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.csprojResolveAssemblyReference.cache
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.CharacterSelectionForm.resources
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.StatDisplayForm.resources
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.Properties.Resources.resources
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.csproj.GenerateResource.Cache
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.exe
+C:\Users\amcinerney\Documents\Visual Studio 2013\Projects\IsaacRebirth\IsaacRebirth\obj\Release\IsaacRebirth.pdb
